@@ -1,2 +1,2 @@
-# it-academy-logos-frontend.github.io
+# lisciandrin.github.io
 First project
